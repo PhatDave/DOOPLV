@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1500
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromizator", "ConsoleApp1\Palindromizator.csproj", "{60C66198-EBE5-4EB0-8A69-B8AAF2E16470}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromizator", "Palindromizator\Palindromizator.csproj", "{CC3979B1-AF68-4B9B-924E-04CBCDCAB3E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromizator.test", "Palindromizator.test\Palindromizator.test.csproj", "{DD4BA608-4F7B-4B0C-A443-762D9F11A41E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromizator.test", "Palindromizator.test\Palindromizator.test.csproj", "{4A7356E9-0AF7-46A3-88EA-737EFC2B29E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{60C66198-EBE5-4EB0-8A69-B8AAF2E16470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60C66198-EBE5-4EB0-8A69-B8AAF2E16470}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60C66198-EBE5-4EB0-8A69-B8AAF2E16470}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60C66198-EBE5-4EB0-8A69-B8AAF2E16470}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD4BA608-4F7B-4B0C-A443-762D9F11A41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD4BA608-4F7B-4B0C-A443-762D9F11A41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD4BA608-4F7B-4B0C-A443-762D9F11A41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD4BA608-4F7B-4B0C-A443-762D9F11A41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3979B1-AF68-4B9B-924E-04CBCDCAB3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3979B1-AF68-4B9B-924E-04CBCDCAB3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3979B1-AF68-4B9B-924E-04CBCDCAB3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3979B1-AF68-4B9B-924E-04CBCDCAB3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7356E9-0AF7-46A3-88EA-737EFC2B29E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7356E9-0AF7-46A3-88EA-737EFC2B29E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7356E9-0AF7-46A3-88EA-737EFC2B29E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7356E9-0AF7-46A3-88EA-737EFC2B29E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

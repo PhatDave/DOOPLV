@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\Palindromizator.csproj" />
+    <ProjectReference Include="..\Palindromizator\Palindromizator.csproj" />
   </ItemGroup>
 
 </Project>
